@@ -1,0 +1,3 @@
+
+mapping_id,incident_id,technique_id,technique_name,tactic,observed_behaviour,mapping_classification,source_ids,claim_ids,evidence_reference,mapping_rationale,verification_status,analytical_confidence,defensive_implication,last_reviewed,analyst_notes
+TTP-001,INC-001,[Txxxx or Txxxx.xxx],[Technique name],[ATT&CK tactic],[Incident-specific behaviour],[Explicitly reported/Analyst mapped/Inferred],SRC-001,CLM-001,[Section or evidence reference],[Explain why behaviour supports mapping],[Pending/Verified/Rejected],[High/Moderate/Low/Not assessed],[Detection or mitigation implication],YYYY-MM-DD,[Notes]
